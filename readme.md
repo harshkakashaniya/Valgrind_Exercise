@@ -1,5 +1,5 @@
 # Valgrind Exercise
-[![Build Status](https://travis-ci.org/harshkakashaniya/Valgrind_Exercise.svg?branch=master](https://travis-ci.org/harshkakashaniya/Valgrind_Exercise)
+[![Build Status](https://travis-ci.org/harshkakashaniya/Valgrind_Exercise.svg?branch=master)](https://travis-ci.org/harshkakashaniya/Valgrind_Exercise)
 [![Coverage Status](https://coveralls.io/repos/github/harshkakashaniya/Valgrind_Exercise/badge.svg?branch=master)](https://coveralls.io/github/harshkakashaniya/Valgrind_Exercise?branch=master)
 ---
 
